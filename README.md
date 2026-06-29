@@ -1,25 +1,32 @@
-# Youtube-Video-Analysis
-YouTube Video Analysis using Python, Data Cleaning, EDA, and Machine Learning.
 # 📺 YouTube Video Analysis
 
-## 📌 Project Overview
-
-This project analyzes YouTube video data using Python to discover trends, audience engagement, and factors influencing video performance. The project includes data cleaning, exploratory data analysis (EDA), visualization, and machine learning techniques.
-
----
-
-## 🎯 Objectives
-
-- Analyze YouTube video data.
-- Clean and preprocess the dataset.
-- Perform Exploratory Data Analysis (EDA).
-- Create visualizations.
-- Build a machine learning model.
-- Evaluate model performance.
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?logo=scikitlearn)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
 
 ---
 
-## 🛠 Technologies Used
+# 📌 Project Overview
+
+This project analyzes YouTube video data using Python to identify trends, audience engagement, and factors affecting video performance. It includes data cleaning, exploratory data analysis (EDA), visualization, and machine learning.
+
+---
+
+# 🎯 Objectives
+
+- Analyze YouTube video data
+- Clean and preprocess the dataset
+- Perform Exploratory Data Analysis (EDA)
+- Create visualizations
+- Train a Machine Learning model
+- Evaluate model performance
+
+---
+
+# 🛠 Technologies Used
 
 - Python
 - Pandas
@@ -30,41 +37,77 @@ This project analyzes YouTube video data using Python to discover trends, audien
 
 ---
 
-## 📂 Project Workflow
+# 📂 Project Structure
 
-1. Import Libraries
-2. Load Dataset
-3. Data Cleaning
-4. Exploratory Data Analysis (EDA)
-5. Data Visualization
-6. Feature Selection
-7. Train-Test Split
-8. Model Training
-9. Prediction
-10. Model Evaluation
-11. Conclusion
-
----
-
-## 📊 Results
-
-- Successfully cleaned and analyzed the dataset.
-- Identified trends through data visualization.
-- Built and evaluated a machine learning model.
-- Generated predictions using the trained model.
+```text
+youtube-video-analysis/
+│
+├── youtube_video_analysis.ipynb
+├── Project_Report.pdf
+├── README.md
+├── requirements.txt
+├── LICENSE
+└── images/
+```
 
 ---
 
-## 📁 Files Included
+# 📷 Project Screenshots
 
-- `youtube_video_analysis.ipynb`
-- `Project_Report.pdf`
-- `requirements.txt`
+## Dataset Preview
+
+![Dataset](images/HEAD.PNG)
 
 ---
 
-## 👩‍💻 Author
+## Dataset Information
+
+![Info](images/INFO.PNG)
+
+---
+
+## Data Visualization
+
+![Bar Chart](images/BAR.PNG)
+
+---
+
+## Correlation Heatmap
+
+![Heatmap](images/HEATMAP.PNG)
+
+---
+
+## Model Prediction
+
+![Prediction](images/PREDICTIONS.PNG)
+
+---
+
+# 📈 Results
+
+- Successfully cleaned the dataset
+- Performed exploratory data analysis
+- Created meaningful visualizations
+- Trained a machine learning model
+- Generated predictions successfully
+
+---
+
+# 🚀 Future Improvements
+
+- Improve model accuracy
+- Deploy using Streamlit
+- Build an interactive dashboard
+
+---
+
+# 👩‍💻 Author
 
 **Bushra Naseem**
 
-Aspiring Data Scientist | Python | Machine Learning
+Data Science Student
+
+Python | Machine Learning | Data Analysis
+
+⭐ If you found this project useful, consider giving it a star.
